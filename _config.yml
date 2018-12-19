@@ -13,16 +13,16 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: Your awesome title
-email: your-email@example.com
+title: 암기특화 (타이머 플래시카드)
+email: studynewbook@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+  영단어 암기에 효과적인 플래시카드 방식에 
+  가변 망각방지 타이머가 자동으로 다음노출시간을 계산해주므로 
+  단어학습 효율이 극대화 됩니다.
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: jekyllrb
-github_username:  jekyll
+url: "https://studynewbook.github.io"
+twitter_username: 
+github_username: studynewbook 
 
 # Build settings
 markdown: kramdown
@@ -31,7 +31,7 @@ plugins:
   - jekyll-feed
 
 encoding: utf-8
-highlighter: rouge
+# highlighter: rouge
 
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
