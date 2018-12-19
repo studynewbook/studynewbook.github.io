@@ -2,6 +2,7 @@
 layout: post
 title:  "암기특화 앱 사용가이드"
 ---
+{% include ga.html %}
 
 ## 암기특화 사용가이드
 
