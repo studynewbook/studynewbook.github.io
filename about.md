@@ -1,18 +1,12 @@
 ---
 layout: page
-title: About
+title: 플레이스토어 가기
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+영단어 암기에 효과적인 플래시카드 방식에 
+  가변 망각방지 타이머가 자동으로 다음노출시간을 계산해주므로 
+  단어학습 효율이 극대화 됩니다.
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
+[![암기특화](/../images/logo_small.png)<br>암기특화 앱 플레이스토어 바로가기](https://play.google.com/store/apps/details?id=com.studynewbook.mywordlist)
 
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
-
-
-[jekyll-organization]: https://github.com/jekyll
